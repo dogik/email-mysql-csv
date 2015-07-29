@@ -1,0 +1,15 @@
+{
+  "name": "StudiOwens/email-mysql-csv",
+  "description": "A PHP class file that will email the results of a MySQL query as a CSV file attachment",
+  "minimum-stability": "stable",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "StudiOwens",
+      "email": "aa@aa.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "~5.2"
+  }
+}
